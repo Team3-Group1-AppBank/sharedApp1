@@ -1,2 +1,2 @@
-@Library('project10Lib') _
-projectLib 'https://github.com/Team3-Group1-AppBank/sharedApp1.git'
+@Library('project10lib') _
+projectlib 'https://github.com/Team3-Group1-AppBank/sharedApp1.git'
